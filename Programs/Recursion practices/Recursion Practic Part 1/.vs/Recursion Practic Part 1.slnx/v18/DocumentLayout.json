@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming in C \u002B\u002B\\Programs\\Recursion practices\\Recursion Practic Part 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE3C6F7-EE28-4DBC-8061-8F322B1A833F}|Recursion Practic Part 1.vcxproj|D:\\Programming in C \u002B\u002B\\Programs\\Recursion practices\\Recursion Practic Part 1\\Recursion Practic Part 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CE3C6F7-EE28-4DBC-8061-8F322B1A833F}|Recursion Practic Part 1.vcxproj|solutionrelative:Recursion Practic Part 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Recursion Practic Part 1.cpp",
+              "DocumentMoniker": "D:\\Programming in C \u002B\u002B\\Programs\\Recursion practices\\Recursion Practic Part 1\\Recursion Practic Part 1.cpp",
+              "RelativeDocumentMoniker": "Recursion Practic Part 1.cpp",
+              "ToolTip": "D:\\Programming in C \u002B\u002B\\Programs\\Recursion practices\\Recursion Practic Part 1\\Recursion Practic Part 1.cpp",
+              "RelativeToolTip": "Recursion Practic Part 1.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-03T12:32:29.489Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

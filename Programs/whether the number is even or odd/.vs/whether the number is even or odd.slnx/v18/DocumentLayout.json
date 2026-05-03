@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming in C \u002B\u002B\\Programs\\whether the number is even or odd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0788F15-7E28-427F-8ABF-E648964D8854}|whether the number is even or odd.vcxproj|D:\\Programming in C \u002B\u002B\\Programs\\whether the number is even or odd\\whether the number is even or odd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0788F15-7E28-427F-8ABF-E648964D8854}|whether the number is even or odd.vcxproj|solutionrelative:whether the number is even or odd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "whether the number is even or odd.cpp",
+              "DocumentMoniker": "D:\\Programming in C \u002B\u002B\\Programs\\whether the number is even or odd\\whether the number is even or odd.cpp",
+              "RelativeDocumentMoniker": "whether the number is even or odd.cpp",
+              "ToolTip": "D:\\Programming in C \u002B\u002B\\Programs\\whether the number is even or odd\\whether the number is even or odd.cpp",
+              "RelativeToolTip": "whether the number is even or odd.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T07:28:32.523Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

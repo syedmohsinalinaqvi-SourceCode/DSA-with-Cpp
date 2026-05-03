@@ -1,0 +1,3 @@
+﻿  Calculator.cpp
+D:\Programming in C ++\Programs\Calculator\Calculator.cpp(11,9): warning C4101: 'n': unreferenced local variable
+  Calculator.vcxproj -> D:\Programming in C ++\Programs\Calculator\x64\Debug\Calculator.exe

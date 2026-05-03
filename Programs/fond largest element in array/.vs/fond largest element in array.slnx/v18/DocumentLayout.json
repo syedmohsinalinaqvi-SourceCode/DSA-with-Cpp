@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming in C \u002B\u002B\\Programs\\fond largest element in array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62A588DF-F0B9-4C3D-A142-F0E54AE34114}|fond largest element in array.vcxproj|D:\\Programming in C \u002B\u002B\\Programs\\fond largest element in array\\fond largest element in array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{62A588DF-F0B9-4C3D-A142-F0E54AE34114}|fond largest element in array.vcxproj|solutionrelative:fond largest element in array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fond largest element in array.cpp",
+              "DocumentMoniker": "D:\\Programming in C \u002B\u002B\\Programs\\fond largest element in array\\fond largest element in array.cpp",
+              "RelativeDocumentMoniker": "fond largest element in array.cpp",
+              "ToolTip": "D:\\Programming in C \u002B\u002B\\Programs\\fond largest element in array\\fond largest element in array.cpp",
+              "RelativeToolTip": "fond largest element in array.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-21T04:02:58.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

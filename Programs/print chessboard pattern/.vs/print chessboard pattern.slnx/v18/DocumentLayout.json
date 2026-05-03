@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming in C \u002B\u002B\\Programs\\print chessboard pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{411E7D77-AC21-4D84-9989-D2DB04B2D2D4}|print chessboard pattern.vcxproj|D:\\Programming in C \u002B\u002B\\Programs\\print chessboard pattern\\print chessboard pattern.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{411E7D77-AC21-4D84-9989-D2DB04B2D2D4}|print chessboard pattern.vcxproj|solutionrelative:print chessboard pattern.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "print chessboard pattern.cpp",
+              "DocumentMoniker": "D:\\Programming in C \u002B\u002B\\Programs\\print chessboard pattern\\print chessboard pattern.cpp",
+              "RelativeDocumentMoniker": "print chessboard pattern.cpp",
+              "ToolTip": "D:\\Programming in C \u002B\u002B\\Programs\\print chessboard pattern\\print chessboard pattern.cpp",
+              "RelativeToolTip": "print chessboard pattern.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T17:07:21.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

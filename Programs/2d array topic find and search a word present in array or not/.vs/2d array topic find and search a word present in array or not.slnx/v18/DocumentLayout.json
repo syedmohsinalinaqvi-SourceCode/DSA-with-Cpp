@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming in C \u002B\u002B\\Programs\\2d array topic find and search a word present in array or not\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BE1F21-BD02-4CA4-939C-1A032ADF8688}|2d array topic find and search a word present in array or not.vcxproj|D:\\Programming in C \u002B\u002B\\Programs\\2d array topic find and search a word present in array or not\\2d array topic find and search a word present in array or not.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4BE1F21-BD02-4CA4-939C-1A032ADF8688}|2d array topic find and search a word present in array or not.vcxproj|solutionrelative:2d array topic find and search a word present in array or not.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2d array topic find and search a word present in array or not.cpp",
+              "DocumentMoniker": "D:\\Programming in C \u002B\u002B\\Programs\\2d array topic find and search a word present in array or not\\2d array topic find and search a word present in array or not.cpp",
+              "RelativeDocumentMoniker": "2d array topic find and search a word present in array or not.cpp",
+              "ToolTip": "D:\\Programming in C \u002B\u002B\\Programs\\2d array topic find and search a word present in array or not\\2d array topic find and search a word present in array or not.cpp",
+              "RelativeToolTip": "2d array topic find and search a word present in array or not.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-20T10:43:59.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

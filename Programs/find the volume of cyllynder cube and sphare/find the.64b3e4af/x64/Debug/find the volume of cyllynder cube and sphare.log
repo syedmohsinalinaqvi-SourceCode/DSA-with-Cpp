@@ -1,0 +1,4 @@
+﻿  find the volume of cyllynder cube and sphare.cpp
+D:\Programming in C ++\Programs\find the volume of cyllynder cube and sphare\find the volume of cyllynder cube and sphare.cpp(18,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programming in C ++\Programs\find the volume of cyllynder cube and sphare\find the volume of cyllynder cube and sphare.cpp(24,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  find the volume of cyllynder cube and sphare.vcxproj -> D:\Programming in C ++\Programs\find the volume of cyllynder cube and sphare\x64\Debug\find the volume of cyllynder cube and sphare.exe

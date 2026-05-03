@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming in C \u002B\u002B\\Programs\\write a programm to find the largest element of an array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9DA7D8-2F2D-4FDB-B560-6C7F1A9675A9}|write a programm to find the largest element of an array.vcxproj|D:\\Programming in C \u002B\u002B\\Programs\\write a programm to find the largest element of an array\\write a programm to find the largest element of an array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E9DA7D8-2F2D-4FDB-B560-6C7F1A9675A9}|write a programm to find the largest element of an array.vcxproj|solutionrelative:write a programm to find the largest element of an array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "write a programm to find the largest element of an array.cpp",
+              "DocumentMoniker": "D:\\Programming in C \u002B\u002B\\Programs\\write a programm to find the largest element of an array\\write a programm to find the largest element of an array.cpp",
+              "RelativeDocumentMoniker": "write a programm to find the largest element of an array.cpp",
+              "ToolTip": "D:\\Programming in C \u002B\u002B\\Programs\\write a programm to find the largest element of an array\\write a programm to find the largest element of an array.cpp",
+              "RelativeToolTip": "write a programm to find the largest element of an array.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T16:48:19.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="StudentID_AMS.vcxproj" Id="8052d127-f91a-41fa-884e-5e1b5b053821" />
+</Solution>

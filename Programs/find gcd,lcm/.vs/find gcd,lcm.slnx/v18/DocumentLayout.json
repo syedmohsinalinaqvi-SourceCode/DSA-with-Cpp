@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming in C \u002B\u002B\\Programs\\find gcd,lcm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D14FAE7-17F3-4FDE-8B62-5960AF2F5223}|find gcd,lcm.vcxproj|D:\\Programming in C \u002B\u002B\\Programs\\find gcd,lcm\\find gcd,lcm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9D14FAE7-17F3-4FDE-8B62-5960AF2F5223}|find gcd,lcm.vcxproj|solutionrelative:find gcd,lcm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "find gcd,lcm.cpp",
+              "DocumentMoniker": "D:\\Programming in C \u002B\u002B\\Programs\\find gcd,lcm\\find gcd,lcm.cpp",
+              "RelativeDocumentMoniker": "find gcd,lcm.cpp",
+              "ToolTip": "D:\\Programming in C \u002B\u002B\\Programs\\find gcd,lcm\\find gcd,lcm.cpp",
+              "RelativeToolTip": "find gcd,lcm.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-28T07:22:13.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+﻿  convertion fehrenheit to celsius or celsius to fehrenheit.cpp
+D:\Programming in C ++\Programs\convertion fehrenheit to celsius or celsius to fehrenheit\convertion fehrenheit to celsius or celsius to fehrenheit.cpp(25,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programming in C ++\Programs\convertion fehrenheit to celsius or celsius to fehrenheit\convertion fehrenheit to celsius or celsius to fehrenheit.cpp(33,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programming in C ++\Programs\convertion fehrenheit to celsius or celsius to fehrenheit\convertion fehrenheit to celsius or celsius to fehrenheit.cpp(38,10): warning C4129: '*': unrecognized character escape sequence
+D:\Programming in C ++\Programs\convertion fehrenheit to celsius or celsius to fehrenheit\convertion fehrenheit to celsius or celsius to fehrenheit.cpp(39,10): warning C4129: 'c': unrecognized character escape sequence
+D:\Programming in C ++\Programs\convertion fehrenheit to celsius or celsius to fehrenheit\convertion fehrenheit to celsius or celsius to fehrenheit.cpp(40,10): warning C4129: '*': unrecognized character escape sequence
+  convertion fehrenheit to celsius or celsius to fehrenheit.vcxproj -> D:\Programming in C ++\Programs\convertion fehrenheit to celsius or celsius to fehrenheit\x64\Debug\convertion fehrenheit to celsius or celsius to fehrenheit.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming in C \u002B\u002B\\Programs\\Triangle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F7EE07-5A9A-4D09-93D3-4AA84DF19C43}|Triangle.vcxproj|D:\\Programming in C \u002B\u002B\\Programs\\Triangle\\Triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F8F7EE07-5A9A-4D09-93D3-4AA84DF19C43}|Triangle.vcxproj|solutionrelative:Triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Triangle.cpp",
+              "DocumentMoniker": "D:\\Programming in C \u002B\u002B\\Programs\\Triangle\\Triangle.cpp",
+              "RelativeDocumentMoniker": "Triangle.cpp",
+              "ToolTip": "D:\\Programming in C \u002B\u002B\\Programs\\Triangle\\Triangle.cpp",
+              "RelativeToolTip": "Triangle.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-12T06:04:50.823Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

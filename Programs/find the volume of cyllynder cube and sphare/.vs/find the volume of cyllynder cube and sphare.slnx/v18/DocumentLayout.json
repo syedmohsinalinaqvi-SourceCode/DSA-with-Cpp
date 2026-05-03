@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming in C \u002B\u002B\\Programs\\find the volume of cyllynder cube and sphare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64B3E4AF-AEA4-4289-A9B2-D98A0828B22F}|find the volume of cyllynder cube and sphare.vcxproj|D:\\Programming in C \u002B\u002B\\Programs\\find the volume of cyllynder cube and sphare\\find the volume of cyllynder cube and sphare.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64B3E4AF-AEA4-4289-A9B2-D98A0828B22F}|find the volume of cyllynder cube and sphare.vcxproj|solutionrelative:find the volume of cyllynder cube and sphare.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "find the volume of cyllynder cube and sphare.cpp",
+              "DocumentMoniker": "D:\\Programming in C \u002B\u002B\\Programs\\find the volume of cyllynder cube and sphare\\find the volume of cyllynder cube and sphare.cpp",
+              "RelativeDocumentMoniker": "find the volume of cyllynder cube and sphare.cpp",
+              "ToolTip": "D:\\Programming in C \u002B\u002B\\Programs\\find the volume of cyllynder cube and sphare\\find the volume of cyllynder cube and sphare.cpp",
+              "RelativeToolTip": "find the volume of cyllynder cube and sphare.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-20T10:25:56.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

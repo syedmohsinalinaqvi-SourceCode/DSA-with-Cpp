@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming in C \u002B\u002B\\Programs\\Diamond Pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C63AAB4-51A3-4FBB-9AD7-B9EC897412FA}|Diamond Pattern.vcxproj|D:\\Programming in C \u002B\u002B\\Programs\\Diamond Pattern\\Diamond Pattern.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0C63AAB4-51A3-4FBB-9AD7-B9EC897412FA}|Diamond Pattern.vcxproj|solutionrelative:Diamond Pattern.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Diamond Pattern.cpp",
+              "DocumentMoniker": "D:\\Programming in C \u002B\u002B\\Programs\\Diamond Pattern\\Diamond Pattern.cpp",
+              "RelativeDocumentMoniker": "Diamond Pattern.cpp",
+              "ToolTip": "D:\\Programming in C \u002B\u002B\\Programs\\Diamond Pattern\\Diamond Pattern.cpp",
+              "RelativeToolTip": "Diamond Pattern.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-12T06:20:54.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

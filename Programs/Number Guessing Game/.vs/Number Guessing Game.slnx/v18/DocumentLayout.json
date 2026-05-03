@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming in C \u002B\u002B\\Programs\\Number Guessing Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD0420B-3F89-41E6-90BF-FEB547AD2A08}|Number Guessing Game.vcxproj|D:\\Programming in C \u002B\u002B\\Programs\\Number Guessing Game\\Number Guessing Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BDD0420B-3F89-41E6-90BF-FEB547AD2A08}|Number Guessing Game.vcxproj|solutionrelative:Number Guessing Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Number Guessing Game.cpp",
+              "DocumentMoniker": "D:\\Programming in C \u002B\u002B\\Programs\\Number Guessing Game\\Number Guessing Game.cpp",
+              "RelativeDocumentMoniker": "Number Guessing Game.cpp",
+              "ToolTip": "D:\\Programming in C \u002B\u002B\\Programs\\Number Guessing Game\\Number Guessing Game.cpp",
+              "RelativeToolTip": "Number Guessing Game.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-12T05:53:59.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

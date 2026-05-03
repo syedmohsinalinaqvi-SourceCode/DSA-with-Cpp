@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming in C \u002B\u002B\\Programs\\find a cube of a number using function\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{796A312C-ACB7-434A-8012-B91ED6B3A92A}|find a cube of a number using function.vcxproj|D:\\Programming in C \u002B\u002B\\Programs\\find a cube of a number using function\\find a cube of a number using function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{796A312C-ACB7-434A-8012-B91ED6B3A92A}|find a cube of a number using function.vcxproj|solutionrelative:find a cube of a number using function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "find a cube of a number using function.cpp",
+              "DocumentMoniker": "D:\\Programming in C \u002B\u002B\\Programs\\find a cube of a number using function\\find a cube of a number using function.cpp",
+              "RelativeDocumentMoniker": "find a cube of a number using function.cpp",
+              "ToolTip": "D:\\Programming in C \u002B\u002B\\Programs\\find a cube of a number using function\\find a cube of a number using function.cpp*",
+              "RelativeToolTip": "find a cube of a number using function.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-28T06:51:55.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming in C \u002B\u002B\\Programs\\Divisor Description\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{861FF905-483F-4CFD-A64E-33367D9E6F56}|Divisor Description.vcxproj|D:\\Programming in C \u002B\u002B\\Programs\\Divisor Description\\Divisor Description.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{861FF905-483F-4CFD-A64E-33367D9E6F56}|Divisor Description.vcxproj|solutionrelative:Divisor Description.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Divisor Description.cpp",
+              "DocumentMoniker": "D:\\Programming in C \u002B\u002B\\Programs\\Divisor Description\\Divisor Description.cpp",
+              "RelativeDocumentMoniker": "Divisor Description.cpp",
+              "ToolTip": "D:\\Programming in C \u002B\u002B\\Programs\\Divisor Description\\Divisor Description.cpp",
+              "RelativeToolTip": "Divisor Description.cpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-12T06:15:30.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

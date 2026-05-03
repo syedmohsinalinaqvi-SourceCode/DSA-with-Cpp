@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming in C \u002B\u002B\\Programs\\using ternary operator find largest number among three number\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD91C9B-D35F-47D6-899D-BC1CF8CA9413}|using ternary operator find largest number among three number.vcxproj|D:\\Programming in C \u002B\u002B\\Programs\\using ternary operator find largest number among three number\\using ternary operator find largest number among three number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBD91C9B-D35F-47D6-899D-BC1CF8CA9413}|using ternary operator find largest number among three number.vcxproj|solutionrelative:using ternary operator find largest number among three number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "using ternary operator find largest number among three number.cpp",
+              "DocumentMoniker": "D:\\Programming in C \u002B\u002B\\Programs\\using ternary operator find largest number among three number\\using ternary operator find largest number among three number.cpp",
+              "RelativeDocumentMoniker": "using ternary operator find largest number among three number.cpp",
+              "ToolTip": "D:\\Programming in C \u002B\u002B\\Programs\\using ternary operator find largest number among three number\\using ternary operator find largest number among three number.cpp*",
+              "RelativeToolTip": "using ternary operator find largest number among three number.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T07:18:16.534Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

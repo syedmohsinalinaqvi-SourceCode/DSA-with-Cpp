@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming in C \u002B\u002B\\Programs\\absolute value of integer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5791A5DC-9E78-4779-A090-C6A4A1F2D098}|absolute value of integer.vcxproj|D:\\Programming in C \u002B\u002B\\Programs\\absolute value of integer\\absolute value of integer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5791A5DC-9E78-4779-A090-C6A4A1F2D098}|absolute value of integer.vcxproj|solutionrelative:absolute value of integer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "absolute value of integer.cpp",
+              "DocumentMoniker": "D:\\Programming in C \u002B\u002B\\Programs\\absolute value of integer\\absolute value of integer.cpp",
+              "RelativeDocumentMoniker": "absolute value of integer.cpp",
+              "ToolTip": "D:\\Programming in C \u002B\u002B\\Programs\\absolute value of integer\\absolute value of integer.cpp",
+              "RelativeToolTip": "absolute value of integer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-18T14:19:28.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

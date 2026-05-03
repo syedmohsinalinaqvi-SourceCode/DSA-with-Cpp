@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="this is only for chking output.vcxproj" Id="7e1555ab-7585-4a7e-a855-ad0e27ccb437" />
+</Solution>
